@@ -1,0 +1,16 @@
+
+p {
+  color: rgb(102, 28, 159);
+}
+
+a:hover {
+  color: rgb(167, 21, 100);
+}
+
+h1 {
+  font-size: 3em;
+}
+
+li img {
+  display: inline-block;
+}
